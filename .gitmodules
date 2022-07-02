@@ -1,0 +1,33 @@
+[submodule "ecslite"]
+	path = ecslite
+	url = git@github.com:LeoECSCommunity/ecslite.git
+[submodule "ecslite-extendedsystems"]
+	path = ecslite-extendedsystems
+	url = git@github.com:LeoECSCommunity/ecslite-extendedsystems.git
+[submodule "ecslite-unityeditor"]
+	path = ecslite-unityeditor
+	url = git@github.com:LeoECSCommunity/ecslite-unityeditor.git
+[submodule "ecslite-unity-ugui"]
+	path = ecslite-unity-ugui
+	url = git@github.com:LeoECSCommunity/ecslite-unity-ugui.git
+[submodule "ecslite-threads-unity"]
+	path = ecslite-threads-unity
+	url = git@github.com:LeoECSCommunity/ecslite-threads-unity.git
+[submodule "ecslite-extendedfilters"]
+	path = ecslite-extendedfilters
+	url = git@github.com:LeoECSCommunity/ecslite-extendedfilters.git
+[submodule "ecslite-di"]
+	path = ecslite-di
+	url = git@github.com:LeoECSCommunity/ecslite-di.git
+[submodule "ecslite-threads"]
+	path = ecslite-threads
+	url = git@github.com:LeoECSCommunity/ecslite-threads.git
+[submodule "ecslite-eventbus"]
+	path = ecslite-eventbus
+	url = git@github.com:RealityStop/ecslite-EventBus.git
+[submodule "ecslite-servicecontainer"]
+	path = ecslite-servicecontainer
+	url = git@github.com:RealityStop/ecslite-ServiceContainer.git
+[submodule "ecslite-eventbus-extended"]
+	path = ecslite-eventbus-extended
+	url = git@github.com:RealityStop/ecslite-EventBusExtended.git
